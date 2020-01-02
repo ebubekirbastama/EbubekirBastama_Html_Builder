@@ -14,5 +14,15 @@
     
     using EbubekirBastama_Html_Builder;
     
-      EbubekirBastamaHtmlCreate.CıktıHtml("tr", "<title>Eçk Yazılım Rapor | Ebubekir Bastama</title>", "<div class=\"container\">");
+     string donendgr= EbubekirBastamaHtmlCreate.CıktıHtml("tr", "<title>Eçk Yazılım Rapor | Ebubekir Bastama</title>", "<div class=\"container\">");
+     
+     Dönen değer bu şekilde olacaktır.
+     <html lang="tr">
+    <head>
+    <title>Eçk Yazılım Rapor | Ebubekir Bastama</title>
+    </head>
+    <body>
+    <div class="container">
+    </body>
+    </html>
     
