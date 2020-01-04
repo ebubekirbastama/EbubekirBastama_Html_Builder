@@ -26,3 +26,7 @@
     </body>
     </html>
     
+# Bizlere Destek Olmak için:
+          Kuvettürk İban
+    ------------------------------
+    TR40 0020 5000 0939 0747 4000 01
